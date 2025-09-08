@@ -74,4 +74,3 @@ Developed as part of **MPCA / IoT Mini Project** by: **Akilesh Gowda K S**
 
 ---
 
-Do you want me to also make a **shorter version of README** (just overview, features, and workflow) for quick submission, or should I keep this detailed GitHub-style one?
